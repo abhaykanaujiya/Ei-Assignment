@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  background-color: #d4e2ed;
+  height: 50px;
+}
+.icon {
+  margin-left: 15px;
+  display: flex;
+  align-items: center;
+}
